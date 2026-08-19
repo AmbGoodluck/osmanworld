@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+:root {
+  --background: #101624;
+  --foreground: #ededed;
+  --font-sans: 'Inter', Arial, Helvetica, sans-serif;
+  --font-serif: 'Playfair Display', serif;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+}
+
+.contact-grid-overlay {
+  background-image:
+    repeating-linear-gradient(0deg, rgba(255,255,255,0.6), rgba(255,255,255,0.6) 1px, transparent 1px, transparent 60px),
+    repeating-linear-gradient(90deg, rgba(255,255,255,0.6), rgba(255,255,255,0.6) 1px, transparent 1px, transparent 60px);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-serif);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}

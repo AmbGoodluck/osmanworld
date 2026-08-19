@@ -1,0 +1,10 @@
+[
+  { "filename": "01-cover-story.jpg",  "label": "Cover Story"  },
+  { "filename": "02-editorial-1.jpg",  "label": "Editorial I"  },
+  { "filename": "03-editorial-2.jpg",  "label": "Editorial II" },
+  { "filename": "04-street.jpg",       "label": "Street"       },
+  { "filename": "05-lookbook.jpg",     "label": "Lookbook"     },
+  { "filename": "06-portrait.jpg",     "label": "Portrait"     },
+  { "filename": "07-detail.jpg",       "label": "Detail"       },
+  { "filename": "08-campaign.jpg",     "label": "Campaign"     }
+]

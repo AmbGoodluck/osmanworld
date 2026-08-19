@@ -1,0 +1,44 @@
+[
+  {
+    "filename": "01-editorial.jpg",
+    "title": "Editorial Direction",
+    "description": "Curating visual narratives that tell compelling stories through fashion.",
+    "tag": "Editorial",
+    "accent": "gray"
+  },
+  {
+    "filename": "02-brand.jpg",
+    "title": "Brand Identity",
+    "description": "Building cohesive brand languages across print, digital, and wearable.",
+    "tag": "Brand",
+    "accent": "crimson"
+  },
+  {
+    "filename": "03-photography.jpg",
+    "title": "Photography",
+    "description": "Capturing mood, texture, and identity through the lens.",
+    "tag": "Photo",
+    "accent": "gray"
+  },
+  {
+    "filename": "04-styling.jpg",
+    "title": "Styling",
+    "description": "Composing looks that communicate culture, confidence, and story.",
+    "tag": "Styling",
+    "accent": "blue"
+  },
+  {
+    "filename": "05-collab.jpg",
+    "title": "Collaboration",
+    "description": "Working with creatives to produce work greater than the sum of its parts.",
+    "tag": "Collab",
+    "accent": "crimson"
+  },
+  {
+    "filename": "06-visual.jpg",
+    "title": "Visual Storytelling",
+    "description": "Every garment, frame, and composition intentionally crafted.",
+    "tag": "Design",
+    "accent": "gray"
+  }
+]

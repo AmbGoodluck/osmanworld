@@ -1,0 +1,23 @@
+[
+  {
+    "filename": "01-ala.jpg",
+    "title": "African Leadership Academy",
+    "description": "Pan-African leadership and design thinking in Johannesburg, South Africa.",
+    "tag": "2021",
+    "accent": "blue"
+  },
+  {
+    "filename": "02-berea.jpg",
+    "title": "Berea College",
+    "description": "Computer Science studies combining technical rigor with entrepreneurial vision.",
+    "tag": "2023",
+    "accent": "blue"
+  },
+  {
+    "filename": "03-founder.jpg",
+    "title": "Founder & Designer",
+    "description": "Building ventures at the intersection of technology, fashion, and community.",
+    "tag": "2024",
+    "accent": "crimson"
+  }
+]
